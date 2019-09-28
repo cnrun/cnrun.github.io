@@ -41,153 +41,100 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Vom Automation zum Bilderkennung, vom VI mit gcc zum Continuous Integration.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: DESS Informatique
+      university: Besançon, Frankreich
+      time: 1992 - 1998
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        DESS Génie Informatique Systèmes Distribués et Parallélismes
+        Data processing engineering, distributed computing and parallel computing
+          - Informatik
+          - Mathematik
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Abitur mit den Hauptfächern Biologie/Mathematik/Physik
+      university: St-Claude, Frankreich
+      time: 1984 - 1991
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Biologie
+          - Mathematik
+          - Physik
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Continuous Integration
+      time: 2014 - Present
+      company: easySoft. GmbH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - "Versionsverwaltung : SVN"
+          - "Setup: Windows Installer/MSI/Advanced Installer Web Server (IIS) Konfiguration bei der Installation"
+          - "Continuous Integration: Einführung, Erweiterung und Wartung vom Jenkins/Powershell/Azure DevOps"
+          - "Automatische Tests: Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman—Einführung von Automatischetest für Desktop Anwendungen und für Web Anwendungen"
+          - "Entwicklung mit: Microsoft/C#/dotNet/dotNet-Core/Visual-Studio/VS-Code/MSQL/MS-ACCESS"
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Software Engineer - Research
+      time: 2009 - 2014
+      company: Spontech Spine GmbH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - "Image recognition: Java Bild Erkennung von Wirbel auf Röntgenbilder"
+          - "Verteilte Datenbank: Cassandra/Java SQL - Driver für Cassandra für Datenanbindung im Cloud"
+          - "Anbindung im Krankenhaus System: Integration und Entwicklung vom Schnittselle zur PACS-Systeme mit Dcm4Che und Pixelmed"
+          - "3D Visualisierung: Integration vom OpenInventor für Computertomographie Visualisierung"
+          - "Entwicklung mit: Macos/Windows/Linux—Medizinesche Standard mit Polarion MedPackInfrastruktur betreuung—Eclipse/IntelliJ—Subversion—Obfuscation"
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineer
+      time: 1998 - 2009
+      company: Stuttgart, Deutschland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - "Search engine: Lucene/Java/C/PosgreSQL/Linux"
+          - "Haldensimulation: Modbus/Java/Linux Beteiligung an Automation für MBS Haldenmanagement"
+          - "Labor automatisierung: Serial/Java/Linux"
+          - "Web-Basiert DMS: C/Java/Linux/Windows"
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Blogs.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: alb-steps
+        link: "https://alb-steps.louvard.de"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
+      - title: CommitNRun
+        link: "https://www.louvard.de/CommitNRun/"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Patent
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Computer program for spine mobility simulation and spine simulation method
+        authors: COPF, Franz; WELSCH, Norbert; WELSCH, Thomas; LOUVARD, Eric; HANISCH, Frank; PROSS, Gerhard; SCHÖLS, Erik
+        conference: PCT/EP2011/000923
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C#
         level: 98%
 
-      - name: Angular
+      - name: C++
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Hyper-V
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
