@@ -120,22 +120,34 @@ skills:
 
     toolset:
       - name: Java
-        level: 98%
+        level: 80%
 
       - name: C#
-        level: 98%
+        level: 80%
+
+      - name: Jenkins
+        level: 80%
+
+      - name: VM-Virtualization
+        level: 80%
+
+      - name: Docker
+        level: 70%
+
+      - name: Kubernetes
+        level: 30%
+
+      - name: Kubernetes
+        level: 30%
 
       - name: C++
-        level: 98%
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Hyper-V
-        level: 85%
+        level: 60%
 
       - name: Photoshop
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Éric Louvard © 2019
