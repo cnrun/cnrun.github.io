@@ -41,20 +41,22 @@ sidebar:
     interests:
       - item: run/ride/ski
         link: https://alb-steps.louvard.de/
+      - item: code
+        link: https://www.louvard.de/CommitNRun
 
 career-profile:
     title: Career Profile
     summary: |
-      Im zwanzig Jahre als Software Entwickler wurde ich mit viel Technologie konfrontiert,
-      verschiedene Arbeit Methodik erlebt und viele Verkzeuge verwendet.<BR>
-      Vom Automation bis zum Bilderkennung, vom VI mit gcc zum Continuous Integration.<BR>
-      Vom standalone Skript bis integriert Application zwischen SQL-Datenbank und Krankenhaus System.<BR>
-      Vom Hecktig getriebene Entwicklung bis Strikt geplants Sprints nach Scrum Methodik.<BR>
+      In den zwanzig Jahren als Software-Entwickler wurde ich mit vielen Technologien konfrontiert,
+      habe verschiedene Arbeitsmethodiken erlebt und viele Werkzeuge verwendet.<BR>
+      Von Automation bis zu Bilderkennung, vom VI mit gcc zu Continuous Integration.<BR>
+      Vom standalone Skript bis integrierter Application zwischen SQL-Datenbank und Krankenhaus-System.<BR>
+      Von hektisch getriebener Entwicklung bis strikt geplanten Sprints nach Scrum Methodik.<BR>
       <BR>
-      Ich freue mich und bin auf die nächste zwanzig Jahre zu erleben mit immer mächtig werdende Möglichkeit
+      Ich freue mich und bin gespannt darauf, die nächsten zwanzig Jahre zu erleben mit immer mächtiger werdenden Möglichkeiten
       für mich als Software Entwickler und für meine Kunden.
       >
-      Software soll der Mensch im Vordegrund stellen und Software Entwickeln bedeutet Verantwortung
+      Software soll den Menschen in den Vordegrund stellen und Software Entwickeln bedeutet Verantwortung
       übernehmen: Zuverlässig und Zuverlässigkeit liefern. 
 education:
     - degree: DESS Informatique
@@ -75,34 +77,34 @@ education:
 experiences:
     - role: Continuous Integration
       time: 2014 - Present
-      company: easySoft. GmbH
+      company: easySoft. GmbH (Metzingen)
       details: |
-          - Continuous Integration: Einführung, Erweiterung und Wartung vom Jenkins/Powershell/Azure DevOps.
-          - Automatische Tests: Einführung von Automatischetest für Desktop Anwendungen und für Web Anwendungen mit Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman.
+          - Continuous Integration: Einführung, Erweiterung und Wartung von Jenkins/Powershell/Azure DevOps.
+          - Automatische Tests: Einführung von automatischen Tests für Desktop Anwendungen und für Web Anwendungen mit Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman.
           - Versionsverwaltung: Veranwortung für Merge und Strukture mit SVN.
           - Setup: Windows Installer/MSI/Advanced Installer Web Server (IIS) Konfiguration bei der Installation,
-          um unsere Produkte bei Kunde zu installieren.
+          um unsere Produkte beim Kunden zu installieren.
           - Entwicklung mit: Microsoft/C#/Python/Groovy/Visual-Studio/VS-Code/MSQL/MS-ACCESS.
     - role: Senior Software Engineer - Research
       time: 2009 - 2014
-      company: Spontech Spine GmbH
+      company: Spontech Spine GmbH (Tübingen, Stuttgart)
       details: |
-          - Image recognition: Java Bild Erkennung von Wirbelkörper auf Röntgenbilder.
-          - Algorithmique: Simulation vom Wirbelsäule Bewegungen.
+          - Bilderkennung: Java Bilderkennung von Wirbelkörpern auf Röntgenaufnahmen.
+          - Algorithmik: Simulation von Wirbelsäulenbewegungen.
           - Verteilte Datenbank: Cassandra/Java, SQL-Driver für Cassandra für Datenanbindung im Cloud.
-          - Anbindung im Krankenhaus System: Integration und Entwicklung vom Schnittselle zur PACS-Systeme
+          - Anbindung an Krankenhaus-System: Integration und Entwicklung einer Schnittstelle zu PACS-Systemen
           mit Dcm4Che und Pixelmed.
-          - 3D Visualisierung: Integration vom OpenInventor für Computertomographie Visualisierung.
-          - Entwicklung mit: Macos/Windows/Linux—Medizinesche Standard mit Polarion MedPackInfrastruktur
-          betreuung—Eclipse/IntelliJ—Subversion—Obfuscation.
+          - 3D Visualisierung: Integration des OpenInventor für Computertomographie-Visualisierung.
+          - Entwicklung mit: Macos/Windows/Linux; Medizinischem Standard mit Polarion MedPack; Infrastruktur-
+          betreuung; Eclipse/IntelliJ; Subversion; Obfuscation.
     - role: Software Engineer
       time: 1998 - 2009
-      company: Stuttgart, Deutschland
+      company: Hauk & Sasko (Stuttgart)
       details: |
-          - Search engine: Lucene/Java/C/PosgreSQL/Linux Zentralisiert Volltext Suche und Datenbank
-          Attribut Suche mit Ergenisse Darstellung wie es heutzutage Google macht.
+          - Search engine: Lucene/Java/C/PosgreSQL/Linux zentralisierte Volltext-Suche und Datenbank
+          Attribut-Suche mit Ergebnis-Darstellung wie diese heutzutage von Google präsentiert wird.
           - Haldensimulation: Modbus/Java/Linux Beteiligung an Automation für MBS Haldenmanagement,
-          vor allem an Automation Schnittstelle mit ausfallsicherheit tätig gewesen.
+          vor allem an Automationsschnittstelle mit Ausfallsicherheit tätig gewesen.
           - Labor automatisierung: Serial/Java/Linux.
           - Web-Basiert DMS: C/Java/Linux/Windows.
 projects:
@@ -116,7 +118,7 @@ projects:
 
       - title: CommitNRun
         link: "https://www.louvard.de/CommitNRun/"
-        tagline: "Wenn ich mal private experimentiere"
+        tagline: "Wenn ich mal privat experimentiere"
 publications:
     title: Publications
     intro: |
