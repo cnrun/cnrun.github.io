@@ -8,16 +8,18 @@ sidebar:
 
     # Profile information
     name: Éric Louvard
-    tagline: Full Stack Developer
+    tagline: Software engineering / DevOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cnrun@louvard.de
-    phone: ask per pm
+    phone:
     website: cnrun.github.io #do not add http://
     linkedin: ericlouvard
     xing: Eric_Louvard
+    meetup: 275727057
     instagram: albsteps
+    strava: cnrun
     gitlab:
     bitbucket:
     twitter: '@ericlouvard'
@@ -43,8 +45,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Vom Automation zum Bilderkennung, vom VI mit gcc zum Continuous Integration.
-
+      Im zwanzig Jahre als Software Entwickler wurde ich mit viel Technologie konfrontiert,
+      verschiedene Arbeit Methodik erlebt und viele Verkzeuge verwendet.<BR>
+      Vom Automation bis zum Bilderkennung, vom VI mit gcc zum Continuous Integration.<BR>
+      Vom standalone Skript bis intergriert application zwischen Datenbank und Krankenhaus System<BR>
+      Vom Hecktig getrieben bis Strikt geplants Sprints nach Scrum Methodik.<BR>
+      Ich freue mich mit Neugir auf die nächste zwanzig Jahre mit immer mächtig werdende Möglichkeit.
+      >
+      Software soll der Mensch im Vordegrund stellen und Software Entwickeln bedeutet Verantwortung übernehmen und Zuverlässigkeit liefern. 
 education:
     - degree: DESS Informatique
       university: Besançon, Frankreich
@@ -54,7 +62,6 @@ education:
         Data processing engineering, distributed computing and parallel computing
           - Informatik
           - Mathematik
-
     - degree: Abitur mit den Hauptfächern Biologie/Mathematik/Physik
       university: St-Claude, Frankreich
       time: 1984 - 1991
@@ -62,70 +69,62 @@ education:
           - Biologie
           - Mathematik
           - Physik
-
 experiences:
     - role: Continuous Integration
       time: 2014 - Present
       company: easySoft. GmbH
       details: |
-          - "Versionsverwaltung : SVN"
-          - "Setup: Windows Installer/MSI/Advanced Installer Web Server (IIS) Konfiguration bei der Installation"
-          - "Continuous Integration: Einführung, Erweiterung und Wartung vom Jenkins/Powershell/Azure DevOps"
-          - "Automatische Tests: Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman—Einführung von Automatischetest für Desktop Anwendungen und für Web Anwendungen"
-          - "Entwicklung mit: Microsoft/C#/dotNet/dotNet-Core/Visual-Studio/VS-Code/MSQL/MS-ACCESS"
-
+          - Continuous Integration: Einführung, Erweiterung und Wartung vom Jenkins/Powershell/Azure DevOps
+          - Automatische Tests: Einführung von Automatischetest für Desktop Anwendungen und für Web Anwendungen mit Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman
+          - Versionsverwaltung: Veranwortung für Merge und Erweiterungen mit SVN
+          - Setup: Windows Installer/MSI/Advanced Installer Web Server (IIS) Konfiguration bei der Installation
+          - Entwicklung mit: Microsoft/C#/Python/Groovy/Visual-Studio/VS-Code/MSQL/MS-ACCESS
     - role: Senior Software Engineer - Research
       time: 2009 - 2014
       company: Spontech Spine GmbH
       details: |
-          - "Image recognition: Java Bild Erkennung von Wirbel auf Röntgenbilder"
-          - "Verteilte Datenbank: Cassandra/Java SQL - Driver für Cassandra für Datenanbindung im Cloud"
-          - "Anbindung im Krankenhaus System: Integration und Entwicklung vom Schnittselle zur PACS-Systeme mit Dcm4Che und Pixelmed"
-          - "3D Visualisierung: Integration vom OpenInventor für Computertomographie Visualisierung"
-          - "Entwicklung mit: Macos/Windows/Linux—Medizinesche Standard mit Polarion MedPackInfrastruktur betreuung—Eclipse/IntelliJ—Subversion—Obfuscation"
-
+          - Image recognition: Java Bild Erkennung von Wirbelkörper auf Röntgenbilder
+          - Algorithmique: Simulation vom Wirbelsäule Bewegungen.
+          - Verteilte Datenbank: Cassandra/Java, SQL-Driver für Cassandra für Datenanbindung im Cloud
+          - Anbindung im Krankenhaus System: Integration und Entwicklung vom Schnittselle zur PACS-Systeme mit Dcm4Che und Pixelmed
+          - 3D Visualisierung: Integration vom OpenInventor für Computertomographie Visualisierung
+          - Entwicklung mit: Macos/Windows/Linux—Medizinesche Standard mit Polarion MedPackInfrastruktur betreuung—Eclipse/IntelliJ—Subversion—Obfuscation
     - role: Software Engineer
       time: 1998 - 2009
       company: Stuttgart, Deutschland
       details: |
-          - "Search engine: Lucene/Java/C/PosgreSQL/Linux"
-          - "Haldensimulation: Modbus/Java/Linux Beteiligung an Automation für MBS Haldenmanagement"
-          - "Labor automatisierung: Serial/Java/Linux"
-          - "Web-Basiert DMS: C/Java/Linux/Windows"
-
+          - Search engine: Lucene/Java/C/PosgreSQL/Linux Zentralisiert Volltext Suche und Datenbank Attribut Suche mit Ergenisse Darstellung wie es heutzutage Google macht.
+          - Haldensimulation: Modbus/Java/Linux Beteiligung an Automation für MBS Haldenmanagement, vor allem an Automation Schnittstelle mit ausfallsicherheit tätig gewesen.
+          - Labor automatisierung: Serial/Java/Linux
+          - Web-Basiert DMS: C/Java/Linux/Windows
 projects:
     title: Projects
     intro: >
       Blogs.
-
     assignments:
       - title: alb-steps
         link: "https://alb-steps.louvard.de"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Ein Läufer Blog"
 
       - title: CommitNRun
         link: "https://www.louvard.de/CommitNRun/"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
+        tagline: "Wenn ich mal private experimentiere"
 publications:
     title: Publications
     intro: |
       Patent
-
     papers:
       - title: Computer program for spine mobility simulation and spine simulation method
-        authors: COPF, Franz; WELSCH, Norbert; WELSCH, Thomas; LOUVARD, Eric; HANISCH, Frank; PROSS, Gerhard; SCHÖLS, Erik
+        authors: COPF Franz; WELSCH Norbert; WELSCH Thomas; LOUVARD Eric; HANISCH Frank; PROSS Gerhard; SCHÖLS Erik
         conference: PCT/EP2011/000923
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Java
         level: 80%
 
       - name: C#
-        level: 80%
+        level: 70%
 
       - name: Jenkins
         level: 80%
@@ -139,8 +138,14 @@ skills:
       - name: Kubernetes
         level: 30%
 
-      - name: Kubernetes
-        level: 30%
+      - name: Azure
+        level: 70%
+
+      - name: AWS
+        level: 50%
+
+      - name: Google Cloud
+        level: 40%
 
       - name: C++
         level: 60%
