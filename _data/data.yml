@@ -48,11 +48,14 @@ career-profile:
       Im zwanzig Jahre als Software Entwickler wurde ich mit viel Technologie konfrontiert,
       verschiedene Arbeit Methodik erlebt und viele Verkzeuge verwendet.<BR>
       Vom Automation bis zum Bilderkennung, vom VI mit gcc zum Continuous Integration.<BR>
-      Vom standalone Skript bis intergriert application zwischen Datenbank und Krankenhaus System<BR>
-      Vom Hecktig getrieben bis Strikt geplants Sprints nach Scrum Methodik.<BR>
-      Ich freue mich mit Neugir auf die nächste zwanzig Jahre mit immer mächtig werdende Möglichkeit.
+      Vom standalone Skript bis integriert Application zwischen SQL-Datenbank und Krankenhaus System.<BR>
+      Vom Hecktig getriebene Entwicklung bis Strikt geplants Sprints nach Scrum Methodik.<BR>
+      <BR>
+      Ich freue mich und bin auf die nächste zwanzig Jahre zu erleben mit immer mächtig werdende Möglichkeit
+      für mich als Software Entwickler und für meine Kunden.
       >
-      Software soll der Mensch im Vordegrund stellen und Software Entwickeln bedeutet Verantwortung übernehmen und Zuverlässigkeit liefern. 
+      Software soll der Mensch im Vordegrund stellen und Software Entwickeln bedeutet Verantwortung
+      übernehmen: Zuverlässig und Zuverlässigkeit liefern. 
 education:
     - degree: DESS Informatique
       university: Besançon, Frankreich
@@ -74,29 +77,34 @@ experiences:
       time: 2014 - Present
       company: easySoft. GmbH
       details: |
-          - Continuous Integration: Einführung, Erweiterung und Wartung vom Jenkins/Powershell/Azure DevOps
-          - Automatische Tests: Einführung von Automatischetest für Desktop Anwendungen und für Web Anwendungen mit Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman
-          - Versionsverwaltung: Veranwortung für Merge und Erweiterungen mit SVN
-          - Setup: Windows Installer/MSI/Advanced Installer Web Server (IIS) Konfiguration bei der Installation
-          - Entwicklung mit: Microsoft/C#/Python/Groovy/Visual-Studio/VS-Code/MSQL/MS-ACCESS
+          - Continuous Integration: Einführung, Erweiterung und Wartung vom Jenkins/Powershell/Azure DevOps.
+          - Automatische Tests: Einführung von Automatischetest für Desktop Anwendungen und für Web Anwendungen mit Hyper-V/Sikulix/Azure/Ranorex/Docker/Selenium/Postman.
+          - Versionsverwaltung: Veranwortung für Merge und Strukture mit SVN.
+          - Setup: Windows Installer/MSI/Advanced Installer Web Server (IIS) Konfiguration bei der Installation,
+          um unsere Produkte bei Kunde zu installieren.
+          - Entwicklung mit: Microsoft/C#/Python/Groovy/Visual-Studio/VS-Code/MSQL/MS-ACCESS.
     - role: Senior Software Engineer - Research
       time: 2009 - 2014
       company: Spontech Spine GmbH
       details: |
-          - Image recognition: Java Bild Erkennung von Wirbelkörper auf Röntgenbilder
+          - Image recognition: Java Bild Erkennung von Wirbelkörper auf Röntgenbilder.
           - Algorithmique: Simulation vom Wirbelsäule Bewegungen.
-          - Verteilte Datenbank: Cassandra/Java, SQL-Driver für Cassandra für Datenanbindung im Cloud
-          - Anbindung im Krankenhaus System: Integration und Entwicklung vom Schnittselle zur PACS-Systeme mit Dcm4Che und Pixelmed
-          - 3D Visualisierung: Integration vom OpenInventor für Computertomographie Visualisierung
-          - Entwicklung mit: Macos/Windows/Linux—Medizinesche Standard mit Polarion MedPackInfrastruktur betreuung—Eclipse/IntelliJ—Subversion—Obfuscation
+          - Verteilte Datenbank: Cassandra/Java, SQL-Driver für Cassandra für Datenanbindung im Cloud.
+          - Anbindung im Krankenhaus System: Integration und Entwicklung vom Schnittselle zur PACS-Systeme
+          mit Dcm4Che und Pixelmed.
+          - 3D Visualisierung: Integration vom OpenInventor für Computertomographie Visualisierung.
+          - Entwicklung mit: Macos/Windows/Linux—Medizinesche Standard mit Polarion MedPackInfrastruktur
+          betreuung—Eclipse/IntelliJ—Subversion—Obfuscation.
     - role: Software Engineer
       time: 1998 - 2009
       company: Stuttgart, Deutschland
       details: |
-          - Search engine: Lucene/Java/C/PosgreSQL/Linux Zentralisiert Volltext Suche und Datenbank Attribut Suche mit Ergenisse Darstellung wie es heutzutage Google macht.
-          - Haldensimulation: Modbus/Java/Linux Beteiligung an Automation für MBS Haldenmanagement, vor allem an Automation Schnittstelle mit ausfallsicherheit tätig gewesen.
-          - Labor automatisierung: Serial/Java/Linux
-          - Web-Basiert DMS: C/Java/Linux/Windows
+          - Search engine: Lucene/Java/C/PosgreSQL/Linux Zentralisiert Volltext Suche und Datenbank
+          Attribut Suche mit Ergenisse Darstellung wie es heutzutage Google macht.
+          - Haldensimulation: Modbus/Java/Linux Beteiligung an Automation für MBS Haldenmanagement,
+          vor allem an Automation Schnittstelle mit ausfallsicherheit tätig gewesen.
+          - Labor automatisierung: Serial/Java/Linux.
+          - Web-Basiert DMS: C/Java/Linux/Windows.
 projects:
     title: Projects
     intro: >
