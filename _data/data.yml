@@ -110,15 +110,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Blogs.
+      blogs:
     assignments:
       - title: alb-steps
         link: "https://alb-steps.louvard.de"
         tagline: "Ein Läufer Blog"
-
       - title: CommitNRun
         link: "https://www.louvard.de/CommitNRun/"
         tagline: "Wenn ich mal privat experimentiere"
+    intro: >
+      open source:
+    assignments:
+      - title: Strava-XApi
+        link: "https://github.com/cnrun/strava-x-api"
+        tagline: "a crawler for Strava activities"
+      - title: CovMap
+        link: "https://github.com/CovOpen/CovMapper"
+        tagline: "a map to visualise the Covid-19 progression"
 publications:
     title: Publications
     intro: |
@@ -156,6 +164,12 @@ skills:
 
       - name: Google Cloud
         level: 40%
+
+      - name: IBM Cloud
+        level: 20%
+
+      - name: Collaboration tools
+        level: 80%
 
       - name: C++
         level: 60%
