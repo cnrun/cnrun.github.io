@@ -110,7 +110,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      blogs:
+      blogs and open source
     assignments:
       - title: alb-steps
         link: "https://alb-steps.louvard.de"
@@ -118,9 +118,6 @@ projects:
       - title: CommitNRun
         link: "https://www.louvard.de/CommitNRun/"
         tagline: "Wenn ich mal privat experimentiere"
-    intro: >
-      open source:
-    assignments:
       - title: Strava-XApi
         link: "https://github.com/cnrun/strava-x-api"
         tagline: "a crawler for Strava activities"
