@@ -41,8 +41,14 @@ sidebar:
     interests:
       - item: run/ride/ski
         link: https://alb-steps.louvard.de/
+      - item: badminton
+        link: https://badminton-metzingen.de/
       - item: code
         link: https://www.louvard.de/CommitNRun
+      - item: "other skills:"
+      - item: "> First helper"
+      - item: "> chainsaw license"
+      - item: "> climb instructor"
 
 career-profile:
     title: Career Profile
@@ -132,9 +138,6 @@ publications:
       - title: Computer program for spine mobility simulation and spine simulation method
         authors: COPF Franz; WELSCH Norbert; WELSCH Thomas; LOUVARD Eric; HANISCH Frank; PROSS Gerhard; SCHÖLS Erik
         conference: PCT/EP2011/000923
-interests:
-    - interest: skills: First helper, chainsaw license, climb instructor
-    - interest: sport (run, badminton, bike, swim,ski)
 skills:
     title: Skills &amp; Proficiency
     toolset:
