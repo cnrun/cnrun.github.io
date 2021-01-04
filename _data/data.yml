@@ -132,6 +132,23 @@ publications:
       - title: Computer program for spine mobility simulation and spine simulation method
         authors: COPF Franz; WELSCH Norbert; WELSCH Thomas; LOUVARD Eric; HANISCH Frank; PROSS Gerhard; SCHÖLS Erik
         conference: PCT/EP2011/000923
+experiences:
+    - role: other skills
+      time: 
+      company:
+      details: |
+          - First helper
+          - chainsaw license
+          - climb instructor
+    - role: Sport
+      time: 
+      company:
+      details: |
+          - run
+          - badminton
+          - bike
+          - swim
+          - ski
 skills:
     title: Skills &amp; Proficiency
     toolset:
