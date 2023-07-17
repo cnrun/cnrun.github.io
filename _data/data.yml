@@ -22,6 +22,7 @@ sidebar:
     strava: cnrun
     gitlab:
     bitbucket:
+    mastodon: '@ericlouvard'
     twitter: '@ericlouvard'
     stack-overflow: 281188/elou # Number/Username, e.g. 123456/alandoe
     codewars:

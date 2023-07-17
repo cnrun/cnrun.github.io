@@ -90,5 +90,11 @@
       <a href="https://www.strava.com/athletes/{{ sidebar.strava }}" target="_blank">{{ sidebar.strava }}</a>
     </li>
     {% endif %}
+
+    {% if sidebar.mastodon %}
+    <li class="mastodon"><i class="fab fa-mastodon"></i>
+      <a rel="me" href="https://hachyderm.io/{{ sidebar.mastodon }}" target="_blank">{{ sidebar.mastodon }}</a>
+    </li>
+    {% endif %}
   </ul>
 </div><!--//contact-container-->
