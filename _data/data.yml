@@ -23,7 +23,6 @@ sidebar:
     gitlab:
     bitbucket:
     mastodon: '@ericlouvard'
-    twitter: '@ericlouvard'
     stack-overflow: 281188/elou # Number/Username, e.g. 123456/alandoe
     codewars:
     github: cnrun
@@ -40,7 +39,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: run/ride/ski
+      - item: run/paragliding/ride/ski
         link: https://alb-steps.louvard.de/
       - item: badminton
         link: https://badminton-metzingen.de/
@@ -142,11 +141,14 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Java
-        level: 80%
-
       - name: C#
         level: 70%
+
+      - name: Skript/Yaml/JSON
+        level: 60%
+
+      - name: Java
+        level: 60%
 
       - name: Jenkins
         level: 80%
@@ -185,4 +187,4 @@ skills:
         level: 60%
 
 footer: >
-    Éric Louvard © 2021
+    Éric Louvard © 2023
